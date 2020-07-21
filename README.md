@@ -1,0 +1,2 @@
+# MyDiary
+Toy Project
