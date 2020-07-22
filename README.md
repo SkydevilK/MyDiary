@@ -22,11 +22,7 @@
 
 ### 2. 2 Branch Naming Convention
 
-- 스네이크 케이스를 기반으로한다.
-- 백앤드 or 프론트 앤드 / 피처 / 기능의 규칙으로 생성한다.
-- 예시
-  - `front_end/feature/map_component`
-  - `back_end/feature/user_api`
+- 혼자 프로젝트 하므로 브런치를 작성하지 않는다.
 
 ### 2.3 Git Commit Naming Convention
 
